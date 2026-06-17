@@ -4,6 +4,7 @@
 #"sim"/ "não" / "nenhum dos dois"
 #Essas seriam traduções
 # sempre usar o TAB para pular as 4 linhas antes de digitar as condicionais  
+#na prmeira linha nunca esquecer do input
 
 entrada = input ('Você deseja "continuar" ou "sair"? ')
 
